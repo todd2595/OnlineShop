@@ -1,0 +1,23 @@
+{
+  "name": "onlineshop",
+  "version": "1.0.0",
+  "description": "shop",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todd2595/OnlineShop.git"
+  },
+  "author": "Todd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/todd2595/OnlineShop/issues"
+  },
+  "homepage": "https://github.com/todd2595/OnlineShop#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
